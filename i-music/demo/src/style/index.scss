@@ -1,0 +1,12 @@
+@import "./mint-ui.css";
+@import "common";
+@import "font/iconfont.css";
+
+$base_color:#fff;
+$base_ft:30px;
+
+body,html,#app,#home,#indexbox{
+    width:100%;
+    height:100%;
+    background-color: #fff;
+}
